@@ -1,6 +1,7 @@
 This project is created with react.js.<br>
 This is a simple and easy to use Phone-Directory.<br><hr>
 <h1>How to use?</h1><br>
+Open the terminal and follow the given commands as in order:-<br>
 1. git clone https://github.com/rahulk16/upPhoneBook.git <br>
 2. cd upPhoneBook <br>
 3. npm install --save <br>
