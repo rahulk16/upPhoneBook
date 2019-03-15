@@ -7,10 +7,10 @@ Open the terminal and follow the given commands as in order:-<br>
 3. npm install --save <br>
 4. npm start <br>
 That's all :relaxed: <br>
-<a href="https://drive.google.com/open?id=1LnlkgfFeqIJMZReRDH3pWKqKwWjacZVy">[image1]</a>
+<a href="https://drive.google.com/open?id=1LnlkgfFeqIJMZReRDH3pWKqKwWjacZVy" targe="_blank">[image1]</a>
 <hr>
 <h1>Functionalities</h1><br>
 1. Create Contact List with name and contact number.<br>
 2. Show the full Contact List.<br>
 3. Delete the desired contact info.<br>
-<a href="https://drive.google.com/open?id=1TxwdErj8HMeB2ycvni_55kv8Lmk_Wnvi">[image2]</a>
+<a href="https://drive.google.com/open?id=1TxwdErj8HMeB2ycvni_55kv8Lmk_Wnvi" targe="_blank">[image2]</a>
