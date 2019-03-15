@@ -7,6 +7,7 @@ Open the terminal and follow the given commands as in order:-<br>
 3. npm install --save <br>
 4. npm start <br>
 That's all :relaxed: <br>
+![TerminalScreenshot](https://drive.google.com/open?id=1LnlkgfFeqIJMZReRDH3pWKqKwWjacZVy)
 <hr>
 <h1>Functionalities</h1><br>
 1. Create Contact List with name and contact number.<br>
